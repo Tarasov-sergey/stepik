@@ -6,6 +6,8 @@ import os
 
 link = "http://suninjuly.github.io/alert_accept.html"
 
+link = "http://suninjuly.github.io/alert_accept.html"
+
 def calc(x):
   return str(math.log(abs(12*math.sin(int(x)))))
 
